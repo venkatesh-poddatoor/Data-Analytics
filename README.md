@@ -1,0 +1,1 @@
+Aspiring Data Analyst with hands-on experience in cleaning, exploring, and visualizing data using tools like Power BI, Tableau, Python, SQL, and Excel. I enjoy turning raw data into clear insights and building dashboards that help teams make smarter decisions. Passionate about solving real-world problems through data.
